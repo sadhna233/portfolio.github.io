@@ -4,4 +4,5 @@ About Me
 Skills
 Education 
 Project works
+Training attended
 
